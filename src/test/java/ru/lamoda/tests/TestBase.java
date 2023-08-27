@@ -19,9 +19,11 @@ public class TestBase {
     @BeforeAll
     static void beforeAll() {
         Configuration.pageLoadStrategy = "eager";
-        Configuration.browserSize = "1920x1080";
-        Configuration.baseUrl = "https://lamoda.ru";
-        Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
+        Configuration.browserSize = System.getProperty("screenResolution","1920x1080");
+        Configuration.baseUrl = System.getProperty("baseUrl","https://lamoda.ru");
+        Configuration.remote = System.getProperty("remoteUrl", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
+        Configuration.browser = System.getProperty("browser", "chrome");
+        Configuration.browserVersion = System.getProperty("browserVersion", "100.0");
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("selenoid:options", Map.<String, Object>of(
