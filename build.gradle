@@ -65,3 +65,16 @@ task favorite_test(type: Test) {
         includeTags("favorite")
     }
 }
+
+task cart_test(type: Test) {
+    useJUnitPlatform{
+        includeTags("cart")
+    }
+}
+
+task removeFromCart_test(type: Test) {
+    useJUnitPlatform{
+        includeTags("removeFromCart")
+    }
+}
+

@@ -1,6 +1,7 @@
 package ru.lamoda.tests;
 
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import ru.lamoda.pages.ItemsPage;
 
@@ -13,6 +14,7 @@ public class RemoveItemsFromCartTests extends TestBase {
     ItemsPage itemsPage = new ItemsPage();
 
     @DisplayName("Удаление товара из корзины")
+    @Tag("removeFromCart")
     @Test
     void successfullyRemoveItemFromCart() {
 
