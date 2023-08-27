@@ -37,6 +37,31 @@ dependencies {
     )
 }
 
+tasks.withType(Test) {
+    useJUnitPlatform()
+    systemProperties(System.getProperties())
+
+    testLogging {
+        lifecycle {
+            events "started", "skipped", "failed", "standard_error", "standard_out"
+            exceptionFormat "short"
+        }
+    }
+}
+
+compileJava {
+    options.encoding = 'UTF-8'
+}
+compileTestJava {
+    options.encoding = 'UTF-8'
+}
+
 test {
     useJUnitPlatform()
+}
+
+task favorite_test(type: Test) {
+    useJUnitPlatform{
+        includeTags("favorite")
+    }
 }
