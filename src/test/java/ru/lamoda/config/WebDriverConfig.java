@@ -22,7 +22,7 @@ public interface WebDriverConfig extends Config {
     String getBrowserSize();
 
     @Key("browserVersion")
-    @DefaultValue("100.0")
+    @DefaultValue("115.0")
     String getBrowserVersion();
 
     @Key("remoteUrl")
