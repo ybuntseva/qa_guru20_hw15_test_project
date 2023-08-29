@@ -2,6 +2,7 @@ package ru.lamoda.config;
 
 import org.aeonbits.owner.Config;
 
+@Config.LoadPolicy(Config.LoadType.MERGE)
 @Config.Sources({
         "system:properties",
         "classpath:${env}.properties"
