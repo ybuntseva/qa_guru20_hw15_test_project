@@ -25,7 +25,6 @@ public class TestBase {
         Configuration.pageLoadStrategy = "eager";
         Configuration.browser = config.getBrowser();
         Configuration.browserSize = config.getBrowserSize();
-        Configuration.browserVersion = config.getBrowserVersion();
         Configuration.baseUrl = config.getBaseUrl();
 
         if (config.isRemote()) {
