@@ -1,9 +1,9 @@
-package ru.lamoda.tests;
+package ru.lamoda.ui.tests;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
-import ru.lamoda.pages.ItemsPage;
+import ru.lamoda.ui.pages.ItemsPage;
 
 import static io.qameta.allure.Allure.step;
 

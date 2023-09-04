@@ -1,4 +1,4 @@
-package ru.lamoda.pages;
+package ru.lamoda.ui.pages;
 
 import com.codeborne.selenide.SelenideElement;
 

@@ -1,4 +1,4 @@
-package ru.lamoda.helpers;
+package ru.lamoda.ui.helpers;
 
 import com.codeborne.selenide.Selenide;
 import io.qameta.allure.Attachment;
