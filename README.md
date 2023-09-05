@@ -19,19 +19,18 @@
 <a id="tools"></a>
 ## <a name="Технологии и инструменты">**Технологии и инструменты:**</a>
 
-<p  align="center">
-  <code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
-  <code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
-  <code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
-  <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
-  <code><img width="5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
-  <code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
-  <code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
-  <code><img width="5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
-  <code><img width="5%" title="Github" src="./images/icons/github-mark.svg"></code>
-  <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
-  <code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
-  <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
+[<img src="./images/icons/IDEA-logo.svg" alt="java_17" width="45" height="45"/>](https://www.oracle.com/ru/java/technologies/javase-jre8-downloads.html)
+[<img src="./images/icons/java-logo.svg" alt="intellij_idea" width="45" height="45"/>](https://www.oracle.com/ru/java/technologies/javase-jre8-downloads.html)
+[<img src="./images/icons/gradle-logo.svg" alt="gradle" width="45" height="45"/>](https://gradle.org/)
+[<img src="./images/icons/junit5-logo.svg" alt="junit_5" width="45" height="45"/>](https://junit.org/junit5/)
+[<img src="./images/icons/selenide-logo.svg" alt="selenide" width="45" height="45"/>](https://ru.selenide.org/)
+[<img src="./images/icons/allure-ee-logo.svg" alt="test_ops" width="45" height="45"/>](https://qameta.io/)
+[<img src="./images/icons/allure-Report-logo.svg" alt="allure" width="45" height="45"/>](https://qameta.io/allure-report/)
+[<img src="./images/icons/jenkins-logo.svg" alt="jenkins" width="45" height="45"/>](https://www.jenkins.io/)
+[<img src="./images/icons/selenoid-logo.svg" alt="selenoid" width="45" height="45"/>](https://aerokube.com/selenoid/latest/)
+[<img src="./images/icons/github-mark.svg" alt="github" width="45" height="45"/>](https://github.com/)
+[<img src="./images/icons/jira-logo.svg" alt="jira" width="45" height="45"/>](https://www.atlassian.com/software/jira)
+[<img src="./images/icons/Telegram.svg" alt="telegram" width="45" height="45"/>](https://en.wikipedia.org/wiki/Telegram_(software))
 
 Автотесты в этом проекте написаны на `Java` с использованием `Selenide` фреймворка.\
 `Gradle` - используется как инструмент автоматизации сборки.  \
