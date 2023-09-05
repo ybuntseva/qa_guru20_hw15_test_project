@@ -20,18 +20,23 @@
 
 ### :computer: Технологии и инструменты
 
-[<img src="./images/icons/IDEA-logo.svg" alt="java_17" width="45" height="45"/>](https://www.oracle.com/ru/java/technologies/javase-jre8-downloads.html)
-[<img src="./images/icons/java-logo.svg" alt="intellij_idea" width="45" height="45"/>](https://www.oracle.com/ru/java/technologies/javase-jre8-downloads.html)
-[<img src="./images/icons/gradle-logo.svg" alt="gradle" width="45" height="45"/>](https://gradle.org/)
-[<img src="./images/icons/junit5-logo.svg" alt="junit_5" width="45" height="45"/>](https://junit.org/junit5/)
-[<img src="./images/icons/selenide-logo.svg" alt="selenide" width="45" height="45"/>](https://ru.selenide.org/)
-[<img src="./images/icons/allure-ee-logo.svg" alt="allure_test_ops" width="45" height="45"/>](https://qameta.io/)
-[<img src="./images/icons/allure-Report-logo.svg" alt="allure" width="45" height="45"/>](https://qameta.io/allure-report/)
-[<img src="./images/icons/jenkins-logo.svg" alt="jenkins" width="45" height="45"/>](https://www.jenkins.io/)
-[<img src="./images/icons/selenoid-logo.svg" alt="selenoid" width="45" height="45"/>](https://aerokube.com/selenoid/latest/)
-[<img src="./images/icons/github-mark.svg" alt="github" width="45" height="45"/>](https://github.com/)
-[<img src="./images/icons/jira-logo.svg" alt="jira" width="45" height="45"/>](https://www.atlassian.com/software/jira)
-[<img src="./images/icons/Telegram.svg" alt="telegram" width="45" height="45"/>](https://en.wikipedia.org/wiki/Telegram_(software))
+<p  align="center">
+  <a href="https://www.jetbrains.com/idea/"><code><img width="5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
+  <a href="https://www.java.com/"><code><img width="5%" title="Java" src="./images/icons/java-logo.svg"></code>
+  <a href="https://selenide.org/"><code><img width="5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
+  <a href="https://aerokube.com/selenoid/"><code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
+  <a href="https://gradle.org/"><code><img width="5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
+  <a href="https://junit.org/junit5/"><code><img width="5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
+  <a href="https://rest-assured.io/"><code><img width="5%" title="RestAssured" src="./images/icons/rest-assured-logo.svg"></code>
+  <a href="http://appium.io/docs/en/2.1/"><code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
+  <a href="https://www.browserstack.com/"><code><img width="5%" title="Browserstack" src="./images/icons/browserstack.svg"></code>
+  <a href="https://github.com/allure-framework/allure2"><code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
+  <a href="https://qameta.io/"><code><img width="5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
+  <a href="https://github.com/"><code><img width="5%" title="Github" src="./images/icons/github-mark.svg"></code>
+  <a href="https://www.jenkins.io/"><code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
+  <a href="https://www.atlassian.com/ru/software/jira"><code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
+  <a href="https://web.telegram.org/"><code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
+</p>
 
 Автотесты в этом проекте написаны на `Java` с использованием `Selenide` фреймворка.\
 `Gradle` - используется как инструмент автоматизации сборки.  \
