@@ -1,4 +1,4 @@
-package ru.lamoda.ui.config;
+package ru.lamoda.tests.config;
 
 import org.aeonbits.owner.Config;
 
