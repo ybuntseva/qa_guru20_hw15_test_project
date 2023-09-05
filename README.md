@@ -25,7 +25,7 @@
 [<img src="./images/icons/gradle-logo.svg" alt="gradle" width="45" height="45"/>](https://gradle.org/)
 [<img src="./images/icons/junit5-logo.svg" alt="junit_5" width="45" height="45"/>](https://junit.org/junit5/)
 [<img src="./images/icons/selenide-logo.svg" alt="selenide" width="45" height="45"/>](https://ru.selenide.org/)
-[<img src="./images/icons/allure-ee-logo.svg" alt="test_ops" width="45" height="45"/>](https://qameta.io/)
+[<img src="./images/icons/allure-ee-logo.svg" alt="allure_test_ops" width="45" height="45"/>](https://qameta.io/)
 [<img src="./images/icons/allure-Report-logo.svg" alt="allure" width="45" height="45"/>](https://qameta.io/allure-report/)
 [<img src="./images/icons/jenkins-logo.svg" alt="jenkins" width="45" height="45"/>](https://www.jenkins.io/)
 [<img src="./images/icons/selenoid-logo.svg" alt="selenoid" width="45" height="45"/>](https://aerokube.com/selenoid/latest/)
