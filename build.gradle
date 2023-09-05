@@ -33,7 +33,8 @@ dependencies {
             'org.junit.jupiter:junit-jupiter',
             "com.codeborne:selenide:$selenideVersion",
             "io.qameta.allure:allure-selenide:$allureVersion",
-            'org.slf4j:slf4j-simple:2.0.7'
+            'org.slf4j:slf4j-simple:2.0.7',
+            'org.aeonbits.owner:owner:1.0.12'
     )
 }
 
