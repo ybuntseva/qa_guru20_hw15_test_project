@@ -1,10 +1,10 @@
-package ru.lamoda.tests.tests;
+package ru.lamoda.tests;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
-import ru.lamoda.tests.pages.ItemsPage;
+import ru.lamoda.pages.ItemsPage;
 
 import static io.qameta.allure.Allure.step;
 
